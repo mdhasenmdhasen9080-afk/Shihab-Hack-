@@ -1,0 +1,5 @@
+{
+  "name": "Live Cam Link Generator",
+  "description": "Generate a link to capture live photos from a remote camera with permission.",
+  "requestFramePermissions": ["camera"]
+}
